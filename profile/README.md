@@ -2,7 +2,7 @@
 Фанатский проект по Danganronpa в сфере Role Play в игру Garry's Mod
 
 ## Ссылки на наши ресурсы:
-YouTube: https://ddbr.ru/sl/yt \
-VK: https://ddbr.ru/sl/vk \
-TikTok: https://ddbr.ru/sl/tt \
-Discord: https://ddbr.ru/sl/dis
+YouTube: https://dbr.su/sl/yt \
+VK: https://dbr.su/sl/vk \
+TikTok: https://dbr.su/sl/tt \
+Discord: https://dbr.su/sl/dis
